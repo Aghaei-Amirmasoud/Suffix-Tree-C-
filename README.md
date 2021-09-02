@@ -1,1 +1,2 @@
-# Suffix-Tree-C-
+# Suffix-Tree
+implementing suffix tree problem.
